@@ -1,0 +1,1 @@
+print("Anna Yermolenko, KN_Group_2")
